@@ -1,5 +1,3 @@
-**Important Note: Our sources will be migrating away from GitHub soon.**
-
 # Highlight
 https://threema.ch/en/blog/posts/threema-push
 
