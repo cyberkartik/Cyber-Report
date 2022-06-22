@@ -1,97 +1,66 @@
 # Highlight
-https://brave.com/usps-mailers/
+https://docs.27lx.me/b/03CA2055-85FC-46DE-B918-B39D04AC03FA/All_new_privacy_features_announced_a
 
 # Data Breaches
-https://thesingaporepost.com/2022/05/25/data-of-22-5-million-malaysians-born-1940-2004-allegedly-being-sold-for-us10k/
+https://portswigger.net/daily-swig/turkish-flight-operator-pegasus-airlines-suffers-data-breach
 
-https://portswigger.net/daily-swig/data-breach-at-australian-pension-provider-spirit-super-impacts-50k-victims-following-phishing-attack
+https://www.bleepingcomputer.com/news/security/shields-health-care-group-data-breach-affects-2-million-patients/
 
-https://techcrunch.com/2022/05/27/voto-resumes-clearances-exposed/
+https://www.bleepingcomputer.com/news/security/italian-city-of-palermo-shuts-down-all-systems-to-fend-off-cyberattack/
 
-https://www.bleepingcomputer.com/news/security/general-motors-credential-stuffing-attack-exposes-car-owners-info/
+https://techcrunch.com/2022/06/08/mobike-passports-identity-exposed/
 
-https://www.vice.com/en/article/wxdwxn/hacker-steals-database-of-hundreds-of-verizon-employees
+https://www.bleepingcomputer.com/news/security/online-gun-shops-in-the-us-hacked-to-steal-credit-cards/
 
-https://portswigger.net/daily-swig/canadian-healthcare-provider-issues-data-breach-warning-after-server-hack
-
-https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-selling-credentials-for-us-college-networks/
 # Companies
-https://techcrunch.com/2022/05/24/ddg-microsoft-tracking-blocking-limit/
+https://www.businessinsider.com/facebook-developing-ads-product-no-user-data-amid-privacy-changes-2022-6
 
-https://twitter.com/yegg/status/1529767506092646403
+https://www.washingtonpost.com/technology/2022/06/08/elon-musk-twitter-bot-data/
 
-https://www.bleepingcomputer.com/news/technology/ftc-fines-twitter-150m-for-using-2fa-info-for-targeted-advertising/
+https://www.androidpolice.com/telegram-germany-user-data-surrendered/
 
-https://gizmodo.com/clearview-ai-facial-recognition-privacy-1848975528
+https://www.wired.com/story/mongodb-queryable-encryption-databases/
 
-https://www.bleepingcomputer.com/news/security/vodafone-plans-carrier-level-user-tracking-for-targeted-ads/
+https://portswigger.net/daily-swig/indian-vpn-providers-resist-incoming-data-logging-law
 
-https://indianexpress.com/article/explained/expressvpn-services-india-new-vpn-rules-explained-7948845/
-
-https://priv.gc.ca/en/opc-news/news-and-announcements/2022/nr-c_220601/
-
-https://www.bleepingcomputer.com/news/security/new-microsoft-office-zero-day-used-in-attacks-to-execute-powershell/
-
-https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-office-zero-day-exploited-in-attacks/
-
-https://www.zdnet.com/article/time-to-update-google-chrome-102-arrives-with-32-security-fixes-one-critical/
+https://www.bleepingcomputer.com/news/security/android-june-2022-updates-bring-fix-for-critical-rce-vulnerability/
 
 # Research
-https://www.bleepingcomputer.com/news/security/microsoft-finds-severe-bugs-in-android-apps-from-large-mobile-providers/
+https://arstechnica.com/information-technology/2022/06/hackers-out-to-steal-a-tesla-can-create-their-very-own-personal-key/
 
-https://github.com/0x192/universal-android-debloater
+https://www.bleepingcomputer.com/news/security/wifi-probing-exposes-smartphone-users-to-tracking-info-leaks/
 
-https://www.csoonline.com/article/3662153/new-linux-based-ransomware-targets-vmware-servers.html
-
-https://www.bleepingcomputer.com/news/security/mobile-trojan-detections-rise-as-malware-distribution-level-declines/
-
-https://www.techradar.com/in/news/privacy-issues-in-india-1-in-2-smartphone-users-get-ads-based-on-private-voice-calls
-
-https://techcrunch.com/2022/05/31/depressed-this-algorithm-can-tell-from-the-tone-of-your-voice/
+https://www.zdnet.com/finance/blockchain/the-paper-that-just-blew-up-bitcoins-claim-to-anonymity/
 
 # Politics
-https://themarkup.org/privacy/2022/05/26/tech-industry-groups-are-watering-down-attempts-at-privacy-regulation-one-state-at-a-time
+https://www.nexttv.com/news/privacy-bill-allows-for-turning-off-targeted-advertising
 
-https://www.eff.org/deeplinks/2022/05/massachusetts-highest-court-upholds-cell-tower-dump-warrant
+https://www.nextgov.com/analytics-data/2022/06/white-house-developing-national-strategy-increase-data-collection-privacy-tech-improves/367941/
 
-https://abcnews.go.com/Business/dc-attorney-general-sues-mark-zuckerberg-cambridge-analytica/story?id=84911205
+https://www.federalregister.gov/documents/2022/06/09/2022-12432/request-for-information-on-advancing-privacy-enhancing-technologies
 
-https://portswigger.net/daily-swig/connecticut-becomes-fifth-us-state-to-enact-comprehensive-consumer-privacy-law
+https://portswigger.net/daily-swig/us-justice-department-offers-blueprint-for-more-innovative-secure-it-capabilities
 
-https://www.hklaw.com/en/insights/publications/2022/05/early-draft-of-california-privacy-regulations-focuses-on-opt-out
+https://techcrunch.com/2022/06/09/records-show-ice-uses-lexisnexis-to-check-millions-far-more-than-previously-thought/
 
-https://kosovapress.com/en/up-is-prohibited-from-processing-biometric-data/
+https://www.usatoday.com/story/tech/2022/06/03/google-pay-illinois-settlement-photo-privacy/7495827001/
 
-https://www.hrw.org/news/2022/05/25/governments-harm-childrens-rights-online-learning
+https://9to5google.com/2022/06/06/google-photos-face-grouping-lawsuit/
+
+https://techcrunch.com/2022/06/08/google-analytics-gdpr-breach-cnil/
 
 # FOSS
-https://proton.me/news/updated-proton
+https://opensource.googleblog.com/2022/05/Build%20Open%20Silicon%20with%20Google.html
 
-https://www.youtube.com/watch?v=RbaLDX6WQQU
+https://blogs.gnome.org/shell-dev/2022/05/30/towards-gnome-shell-on-mobile/
 
-https://bitwarden.com/blog/add-privacy-and-security-using-email-aliases-with-bitwarden/
+https://www.omgubuntu.co.uk/2022/06/linux-mint-new-developers-of-timeshift
 
-https://betanews.com/2022/06/02/hp-dev-one-laptop-system76-popos-linux/
-
-https://www.theregister.com/2022/05/24/version_251_of_systemd_released/
-
-https://teddit.net/r/PrivacyGuides/comments/ux9pun/fairemail_development_will_continue/
-
-https://www.ghacks.net/2022/05/30/firefox-translations-firefoxs-offline-translate-feature-is-making-progress/
-
-https://www.ghacks.net/2022/05/27/mozilla-is-rolling-out-total-cookie-protection-to-more-firefox-users/
-
-https://www.ghacks.net/2022/06/03/firefox-102-query-parameter-stripping-improves-privacy/
-
-https://matrix.org/blog/2022/05/30/welcoming-rocket-chat-to-matrix
-
-https://portswigger.net/daily-swig/tails-users-warned-not-to-launch-bundled-tor-browser-until-security-fix-is-released
-
-https://teddit.net/r/PrivacyGuides/comments/v0xkpb/eos_ecloud_major_security_flaw_users_had_access/
+https://mullvad.net/en/blog/2022/6/10/possible-dns-leak-fixed-in-our-windows-app/
 
 # Misfits
-https://arstechnica.com/gadgets/2022/06/developers-get-linux-up-and-running-on-old-ipad-air-2-hardware/
+https://www.bleepingcomputer.com/news/security/emotet-malware-now-steals-credit-cards-from-google-chrome-users/
 
-https://portswigger.net/daily-swig/horde-webmail-contains-zero-day-rce-bug-with-no-patch-on-the-horizon
+https://twitter.com/TurnerNovak/status/1535088667714363398
 
-https://www.bleepingcomputer.com/news/security/conti-ransomware-targeted-intel-firmware-for-stealthy-attacks/
+https://techcrunch.com/2022/06/06/axons-ai-ethics-board-resigns-over-plan-to-surveil-schools-with-armed-drones/
